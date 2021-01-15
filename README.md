@@ -1,0 +1,4 @@
+### Coding Quiz
+
+## Goal
+I was not about to get very far this week with this assignment. I still need to review my understanding of how to code in javascript and also how to use jquery while retaining my understanding of how javascript is written without it. I'm not sure if I need to take a course or review to content on how functions work but I had a difficult time with this assignment. A lot of my time was spent researching and looking up documentation however with practice I hope to be able to understand and write code that can do simple things such as produce a quiz. The code thus far was a simple attempt at just producing content with in the tags through javascript. My plan was to append or add 4 buttons per click with option arrays to represent the a set of answers. Each question would represent a number and the answer set would be matched up with these numbers.
